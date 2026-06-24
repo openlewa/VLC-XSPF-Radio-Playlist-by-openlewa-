@@ -47,14 +47,24 @@
       <meta rel="source">IPRD streams/de/de.m3u</meta>
     </track>
     <track>
-      <title>Antenne MV Rock (Legacy / ROCK ANTENNE Live Rock)</title>
+      <title>ROCK ANTENNE Bayern</title>
       <creator>ROCK ANTENNE</creator>
-      <annotation>Antenne MV Rock appears only as a legacy/aggregator listing, not as a reliable official IPRD stream. This entry keeps the requested name and uses the official ROCK ANTENNE Live Rock stream as a stable rock fallback.</annotation>
-      <location>https://stream.rockantenne.de/live-rock/stream/mp3</location>
-      <info>https://www.rockantenne.de/rockhoeren/streams/live-rock</info>
-      <image>https://www.rockantenne.de/assets/icons/rockantenne-de/apple-touch-icon-120x120.png?v=2</image>
-      <meta rel="group-title">Rock; Live Rock; Legacy Antenne MV</meta>
-      <meta rel="source">IPRD-compatible fallback</meta>
+      <annotation>Rock station for Bavaria with classic rock, hard rock and current rock tracks.</annotation>
+      <location>https://stream.rockantenne.de/rockantenne-bayern/stream/mp3</location>
+      <info>https://www.rockantenne.bayern/</info>
+      <image>https://www.rockantenne.bayern/logos/station-rock-antenne-bayern/station.svg</image>
+      <meta rel="group-title">Rock; Bayern; Classic Rock</meta>
+      <meta rel="source">IPRD streams/de/de.m3u; official ROCK ANTENNE streamlinks</meta>
+    </track>
+    <track>
+      <title>RADIO BOB! national</title>
+      <creator>RADIO BOB!</creator>
+      <annotation>German rock station with national programming, classic rock and modern rock.</annotation>
+      <location>http://streams.radiobob.de/bob-live/mp3-192/mediaplayer</location>
+      <info>https://www.radiobob.de/radiobob/empfang/livestream</info>
+      <image>https://www.radiobob.de/favicon.ico</image>
+      <meta rel="group-title">Rock; Classic Rock; Modern Rock</meta>
+      <meta rel="source">Official RADIO BOB! streamlinks</meta>
     </track>
     <track>
       <title>Deutschlandfunk</title>
