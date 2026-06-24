@@ -137,7 +137,7 @@
       <meta rel="source">IPRD streams/de/de.m3u</meta>
     </track>
     <track>
-      <title>radioeins</title>
+      <title>radioeins - rbb</title>
       <creator>rbb</creator>
       <annotation>Public adult contemporary, alternative, culture and talk station.</annotation>
       <location>https://dispatcher.rndfnk.com/rbb/radioeins/live/mp3/128/stream.mp3</location>
@@ -147,7 +147,7 @@
       <meta rel="source">IPRD streams/de/de.m3u</meta>
     </track>
     <track>
-      <title>Fritz</title>
+      <title>Fritz - rbb</title>
       <creator>rbb</creator>
       <annotation>Public youth, pop, rock and alternative station.</annotation>
       <location>https://dispatcher.rndfnk.com/rbb/fritz/live/mp3/128/stream.mp3</location>
