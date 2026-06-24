@@ -21,13 +21,33 @@ The playlist also stores an optional remote source per station:
 
 VLC uses the local `<image>` path. The `image-remote` URL is **not** fetched automatically; it is only a hint for the optional sync script below.
 
+### Cover sync (CLI or web app)
+
+If covers are stored outside the default `covers/` folder, or VLC does not show artwork, use the cover sync tools to write the correct paths into the XSPF.
+
+**Web app (recommended):**
+
+```bash
+pip install -r requirements.txt
+python3 webapp/app.py
+```
+
+Open http://127.0.0.1:8765 in your browser. Choose the XSPF file, pick a cover storage folder, then either check covers or update the playlist paths for VLC. Use **relative** paths when the playlist and covers stay together; use **absolute `file://` URLs** when covers live elsewhere.
+
+**CLI:**
+
+```bash
+python3 scripts/sync_covers.py --check
+python3 scripts/sync_covers.py --update-xspf --covers-dir /path/to/covers
+python3 scripts/sync_covers.py --update-xspf --path-mode absolute --covers-dir /path/to/covers
+```
+
 ### Optional: fetch original station artwork
 
 If downloading station logos is legal where you are, you can replace bundled thumbnails with originals from the official websites:
 
 ```bash
-pip install -r requirements.txt
-python3 scripts/sync_covers.py --fetch-original
+python3 scripts/sync_covers.py --fetch-original --covers-dir covers
 ```
 
 Use `--force` to overwrite existing files. This is entirely optional — the playlist works out of the box with bundled covers.
