@@ -110,7 +110,7 @@
       <title>SWR3</title>
       <creator>SWR</creator>
       <annotation>Public pop, rock and news station.</annotation>
-      <location>https://dispatcher.rndfnk.com/swr/swr3/live/mp3/mid</location>
+      <location>https://dispatcher.rndfnk.com/swr/swr3/live/mp3/128/stream.mp3</location>
       <info>https://www.swr3.de/</info>
       <image>https://swr3.de/assets/swr3/icons/apple-touch-icon.png</image>
       <meta rel="group-title">Public; Pop; Rock; News</meta>
@@ -160,7 +160,7 @@
       <title>MDR JUMP</title>
       <creator>MDR</creator>
       <annotation>Public youth and pop station.</annotation>
-      <location>https://mdr-284320-0.cast.mdr.de/mdr/284320/0/mp3/high/stream.mp3</location>
+      <location>http://mdr-284320-0.cast.mdr.de/mdr/284320/0/mp3/high/stream.mp3</location>
       <info>https://www.jumpradio.de/</info>
       <image>https://cdn.jumpradio.de/resources/jump/site/img/apple-icon-120x120.png</image>
       <meta rel="group-title">Public; Youth; Pop</meta>
