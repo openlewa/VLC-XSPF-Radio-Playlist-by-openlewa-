@@ -199,6 +199,30 @@
       <meta rel="image-remote">https://www.radiobob.de/favicon.ico</meta>
     </track>
     <track>
+      <title>Rock am Ring Radio by RADIO BOB!</title>
+      <creator>RADIO BOB! </creator>
+      <annotation>Rund um die Uhr nur mit den besten Acts, die in den letzten Jahrzehnten den Ring gerockt haben! Und: Spannende Infos, News und Beiträge aus dem Rock am Ring-Kosmos.</annotation>
+      <location>https://streams.radiobob.de/rockamring/mp3-192/streams.radiobob.de/</location>
+      <info>https://www.radiobob.de/rock-am-ring-radio-stream</info>
+      <image>covers/Rock-am-Ring-Radio-by-RADIO-BOB.png</image>
+      <meta rel="group-title">Rock  Metal; Punk; Metalcore; Deutschrock; Alternative Rock; Indie Rock; Heavy Metal</meta>
+      <meta rel="bitrate">192</meta>
+      <meta rel="source">Official RADIO BOB! streamlinks</meta>
+      <meta rel="image-remote">https://agginfo.quantumcast.cloud/m/rc/branding/42f87e36-1ad3-4d99-9968-7419ce94df88/bob_rockamring_128x128.png</meta>
+    </track>
+    <track>
+      <title>Wacken Radio by RADIO BOB!</title>
+      <creator>RADIO BOB!</creator>
+      <annotation>Wacken Radio by RADIO BOB! versorgt euch mit Beiträgen und Musik aus 30 Jahren W:O:A.</annotation>
+      <location>https://streams.radiobob.de/bob-wacken/mp3-192/streams.radiobob.de/</location>
+      <info>https://www.radiobob.de/wacken-radio-by-radio-bob</info>
+      <image>covers/Wacken-Radio-by-RADIO-BOB.png</image>
+      <meta rel="group-title">Rock; Metal; Prog Symphonic Rock; Symphonic Rock; Art Rock; Heavy Rock; Europe; Modern; 90er; 20th Century; 21st Century; 2000s; 2010s; ADULT</meta>
+      <meta rel="bitrate">192</meta>
+      <meta rel="source">Official RADIO BOB! streamlinks</meta>
+      <meta rel="image-remote">https://agginfo.quantumcast.cloud/m/rc/branding/5deed683-7f04-4b14-8fbf-d544b78ba915/bob_wackenradio_128x128.png</meta>
+    </track>
+    <track>
       <title>ROCK ANTENNE Heavy Metal</title>
       <creator>ROCK ANTENNE</creator>
       <annotation>Heavy metal and hard rock web channel.</annotation>
