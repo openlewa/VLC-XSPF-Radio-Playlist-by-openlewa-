@@ -12,7 +12,7 @@
       <annotation>Public youth, pop, rock and top-40 station.</annotation>
       <location>https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3</location>
       <info>https://www1.wdr.de/radio/1live/</info>
-      <image>covers/1live.png</image>
+      <image>https://www1.wdr.de/radio/1live/einslive124~_v-gseaclassicxl.jpg</image>
       <meta rel="group-title">Public; Pop; Rock; Top 40</meta>
       <meta rel="bitrate">128</meta>
       <meta rel="source">IPRD streams/de/de.m3u</meta>
@@ -24,7 +24,7 @@
       <annotation>Public variety, news and talk stream.</annotation>
       <location>https://wdr-wdr2-rheinland.icecastssl.wdr.de/wdr/wdr2/rheinland/mp3/128/stream.mp3</location>
       <info>https://www1.wdr.de/radio/wdr2/</info>
-      <image>covers/wdr-2-rheinland.png</image>
+      <image>https://www1.wdr.de/resources/img/favicon/apple-touch-icon.png</image>
       <meta rel="group-title">Public; Variety; News; Talk</meta>
       <meta rel="bitrate">128</meta>
       <meta rel="source">IPRD streams/de/de.m3u</meta>
@@ -36,7 +36,7 @@
       <annotation>Public oldies, pop and hits station.</annotation>
       <location>https://wdr-wdr4-live.icecastssl.wdr.de/wdr/wdr4/live/mp3/128/stream.mp3</location>
       <info>https://www1.wdr.de/radio/wdr4/</info>
-      <image>covers/wdr-4.png</image>
+      <image>https://www1.wdr.de/resources/img/favicon/apple-touch-icon.png</image>
       <meta rel="group-title">Public; Oldies; Pop; Hits</meta>
       <meta rel="bitrate">128</meta>
       <meta rel="source">IPRD streams/de/de.m3u</meta>
@@ -48,7 +48,7 @@
       <annotation>Public pop, charts and top-40 station.</annotation>
       <location>https://icecast.ndr.de/ndr/njoy/live/mp3/128/stream.mp3</location>
       <info>https://www.n-joy.de/</info>
-      <image>covers/n-joy.png</image>
+      <image>https://n-joy.de/apple-touch-icon-120x120.png</image>
       <meta rel="group-title">Public; Pop; Charts; Top 40</meta>
       <meta rel="bitrate">128</meta>
       <meta rel="source">IPRD streams/de/de.m3u</meta>
@@ -60,7 +60,7 @@
       <annotation>Public pop, rock and top-40 station.</annotation>
       <location>https://dispatcher.rndfnk.com/br/br3/live/mp3/128/stream.mp3</location>
       <info>https://www.bayern3.de/</info>
-      <image>covers/bayern-3.png</image>
+      <image>https://www.bayern3.de/favicon.png</image>
       <meta rel="group-title">Public; Pop; Rock; Top 40</meta>
       <meta rel="bitrate">128</meta>
       <meta rel="source">IPRD streams/de/de.m3u</meta>
@@ -72,7 +72,7 @@
       <annotation>Public pop, rock and news station.</annotation>
       <location>https://dispatcher.rndfnk.com/swr/swr3/live/mp3/128/stream.mp3</location>
       <info>https://www.swr3.de/</info>
-      <image>covers/swr3.png</image>
+      <image>https://swr3.de/assets/swr3/icons/apple-touch-icon.png</image>
       <meta rel="group-title">Public; Pop; Rock; News</meta>
       <meta rel="bitrate">128</meta>
       <meta rel="source">IPRD streams/de/de.m3u</meta>
@@ -84,7 +84,7 @@
       <annotation>Public pop, charts and regional news stream.</annotation>
       <location>https://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3</location>
       <info>https://www.ndr.de/ndr2/</info>
-      <image>covers/ndr-2-niedersachsen.png</image>
+      <image>https://www.ndr.de/apple-touch-icon-120x120.png</image>
       <meta rel="group-title">Public; Pop; Charts; News</meta>
       <meta rel="bitrate">128</meta>
       <meta rel="source">IPRD streams/de/de.m3u</meta>
@@ -96,11 +96,10 @@
       <annotation>Public adult contemporary, alternative, culture and talk station.</annotation>
       <location>https://dispatcher.rndfnk.com/rbb/radioeins/live/mp3/128/stream.mp3</location>
       <info>https://www.radioeins.de/</info>
-      <image>covers/radioeins.png</image>
+      <image>https://www.radioeins.de/content/dam/rbb/rbb/logos/touch/rad-128.png</image>
       <meta rel="group-title">Public; Alternative; Culture; Pop</meta>
       <meta rel="bitrate">128</meta>
       <meta rel="source">IPRD streams/de/de.m3u</meta>
-      <meta rel="image-remote">https://www.radioeins.de/content/dam/rbb/rbb/logos/touch/rad-128.png</meta>
     </track>
     <track>
       <title>Fritz - rbb</title>
@@ -108,11 +107,10 @@
       <annotation>Public youth, pop, rock and alternative station.</annotation>
       <location>https://dispatcher.rndfnk.com/rbb/fritz/live/mp3/128/stream.mp3</location>
       <info>https://www.fritz.de/</info>
-      <image>covers/fritz.png</image>
+      <image>https://www.fritz.de/content/dam/rbb/rbb/logos/touch/fritz-128.png</image>
       <meta rel="group-title">Public; Youth; Pop; Alternative</meta>
       <meta rel="bitrate">128</meta>
       <meta rel="source">IPRD streams/de/de.m3u</meta>
-      <meta rel="image-remote">https://www.fritz.de/content/dam/rbb/rbb/logos/touch/fritz-128.png</meta>
     </track>
     <track>
       <title>hr3</title>
@@ -120,11 +118,10 @@
       <annotation>Public adult contemporary and pop station.</annotation>
       <location>https://dispatcher.rndfnk.com/hr/hr3/live/mp3/128/stream.mp3</location>
       <info>https://www.hr3.de/</info>
-      <image>covers/hr3.png</image>
+      <image>https://www.hr3.de/assets_3.36.1/base/icons/favicon/favicon-64.png</image>
       <meta rel="group-title">Public; Adult Contemporary; Pop</meta>
       <meta rel="bitrate">128</meta>
       <meta rel="source">IPRD streams/de/de.m3u</meta>
-      <meta rel="image-remote">https://www.hr3.de/assets_3.36.1/base/icons/favicon/favicon-64.png</meta>
     </track>
     <track>
       <title>MDR JUMP</title>
@@ -132,11 +129,10 @@
       <annotation>Public youth and pop station.</annotation>
       <location>http://mdr-284320-0.cast.mdr.de/mdr/284320/0/mp3/high/stream.mp3</location>
       <info>https://www.jumpradio.de/</info>
-      <image>covers/mdr-jump.png</image>
+      <image>https://cdn.jumpradio.de/resources/jump/site/img/apple-icon-120x120.png</image>
       <meta rel="group-title">Public; Youth; Pop</meta>
       <meta rel="bitrate">192</meta>
       <meta rel="source">IPRD streams/de/de.m3u</meta>
-      <meta rel="image-remote">https://cdn.jumpradio.de/resources/jump/site/img/apple-icon-120x120.png</meta>
     </track>
     <track>
       <title>Deutschlandfunk</title>
@@ -144,11 +140,10 @@
       <annotation>Public news, culture and information station with very low advertising.</annotation>
       <location>https://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3</location>
       <info>https://www.deutschlandfunk.de/</info>
-      <image>covers/deutschlandfunk.png</image>
+      <image>https://www.deutschlandfunk.de/static/img/deutschlandfunk/icons/apple-touch-icon-128x128.png</image>
       <meta rel="group-title">Public; News; Culture; Information</meta>
       <meta rel="bitrate">128</meta>
       <meta rel="source">IPRD streams/de/de.m3u</meta>
-      <meta rel="image-remote">https://www.deutschlandfunk.de/static/img/deutschlandfunk/icons/apple-touch-icon-128x128.png</meta>
     </track>
     <track>
       <title>Deutschlandfunk Kultur</title>
@@ -156,11 +151,10 @@
       <annotation>Public culture and news station with very low advertising.</annotation>
       <location>https://st02.sslstream.dlf.de/dlf/02/128/mp3/stream.mp3</location>
       <info>https://www.deutschlandfunkkultur.de/</info>
-      <image>covers/deutschlandfunk-kultur.png</image>
+      <image>https://www.deutschlandfunkkultur.de/static/img/deutschlandfunk_kultur/icons/apple-touch-icon-128x128.png</image>
       <meta rel="group-title">Public; Culture; News</meta>
       <meta rel="bitrate">128</meta>
       <meta rel="source">IPRD streams/de/de.m3u</meta>
-      <meta rel="image-remote">https://www.deutschlandfunkkultur.de/static/img/deutschlandfunk_kultur/icons/apple-touch-icon-128x128.png</meta>
     </track>
     <track>
       <title>Antenne Bayern</title>
@@ -168,11 +162,10 @@
       <annotation>Popular Bavarian pop and hits station.</annotation>
       <location>http://s3-webradio.antenne.de/antenne</location>
       <info>https://www.antenne.de/</info>
-      <image>covers/antenne-bayern.png</image>
+      <image>https://www.antenne.de/assets/icons/antenne-de/apple-touch-icon.png</image>
       <meta rel="group-title">Pop; Hits; Charts</meta>
       <meta rel="bitrate">128</meta>
       <meta rel="source">IPRD streams/de/de.m3u</meta>
-      <meta rel="image-remote">https://www.antenne.de/assets/icons/antenne-de/apple-touch-icon.png</meta>
     </track>
     <track>
       <title>ROCK ANTENNE Bayern</title>
@@ -180,11 +173,10 @@
       <annotation>Rock station for Bavaria with classic rock, hard rock and current rock tracks.</annotation>
       <location>https://stream.rockantenne.de/rockantenne-bayern/stream/mp3</location>
       <info>https://www.rockantenne.bayern/</info>
-      <image>covers/rock-antenne-bayern.png</image>
+      <image>https://www.rockantenne.de/assets/icons/rockantenne-de/apple-touch-icon-120x120.png</image>
       <meta rel="group-title">Rock; Bayern; Classic Rock</meta>
       <meta rel="bitrate">128</meta>
       <meta rel="source">IPRD streams/de/de.m3u; official ROCK ANTENNE streamlinks</meta>
-      <meta rel="image-remote">https://www.rockantenne.de/assets/icons/rockantenne-de/apple-touch-icon-120x120.png</meta>
     </track>
     <track>
       <title>RADIO BOB! national</title>
@@ -192,11 +184,10 @@
       <annotation>German rock station with national programming, classic rock and modern rock.</annotation>
       <location>http://streams.radiobob.de/bob-live/mp3-192/mediaplayer</location>
       <info>https://www.radiobob.de/radiobob/empfang/livestream</info>
-      <image>covers/radio-bob-national.png</image>
+      <image>https://www.radiobob.de/favicon.ico</image>
       <meta rel="group-title">Rock; Classic Rock; Modern Rock</meta>
       <meta rel="bitrate">192</meta>
       <meta rel="source">Official RADIO BOB! streamlinks</meta>
-      <meta rel="image-remote">https://www.radiobob.de/favicon.ico</meta>
     </track>
     <track>
       <title>Rock am Ring Radio by RADIO BOB!</title>
@@ -204,11 +195,10 @@
       <annotation>Rund um die Uhr nur mit den besten Acts, die in den letzten Jahrzehnten den Ring gerockt haben! Und: Spannende Infos, News und Beiträge aus dem Rock am Ring-Kosmos.</annotation>
       <location>http://streams.radiobob.de/rockamring/mp3-192/mediaplayer</location>
       <info>https://www.radiobob.de/rock-am-ring-radio-stream</info>
-      <image>covers/Rock-am-Ring-Radio-by-RADIO-BOB.png</image>
+      <image>https://agginfo.quantumcast.cloud/m/rc/branding/42f87e36-1ad3-4d99-9968-7419ce94df88/bob_rockamring_128x128.png</image>
       <meta rel="group-title">Rock  Metal; Punk; Metalcore; Deutschrock; Alternative Rock; Indie Rock; Heavy Metal</meta>
       <meta rel="bitrate">192</meta>
       <meta rel="source">Official RADIO BOB! streamlinks</meta>
-      <meta rel="image-remote">https://agginfo.quantumcast.cloud/m/rc/branding/42f87e36-1ad3-4d99-9968-7419ce94df88/bob_rockamring_128x128.png</meta>
     </track>
     <track>
       <title>Wacken Radio by RADIO BOB!</title>
@@ -216,11 +206,10 @@
       <annotation>Wacken Radio by RADIO BOB! versorgt euch mit Beiträgen und Musik aus 30 Jahren W:O:A.</annotation>
       <location>http://streams.radiobob.de/bob-wacken/mp3-192/mediaplayer</location>
       <info>https://www.radiobob.de/wacken-radio-by-radio-bob</info>
-      <image>covers/Wacken-Radio-by-RADIO-BOB.png</image>
+      <image>https://agginfo.quantumcast.cloud/m/rc/branding/5deed683-7f04-4b14-8fbf-d544b78ba915/bob_wackenradio_128x128.png</image>
       <meta rel="group-title">Rock; Metal; Prog Symphonic Rock; Symphonic Rock; Art Rock; Heavy Rock; Europe; Modern; 90er; 20th Century; 21st Century; 2000s; 2010s; ADULT</meta>
       <meta rel="bitrate">192</meta>
       <meta rel="source">Official RADIO BOB! streamlinks</meta>
-      <meta rel="image-remote">https://agginfo.quantumcast.cloud/m/rc/branding/5deed683-7f04-4b14-8fbf-d544b78ba915/bob_wackenradio_128x128.png</meta>
     </track>
     <track>
       <title>ROCK ANTENNE Heavy Metal</title>
@@ -228,11 +217,10 @@
       <annotation>Heavy metal and hard rock web channel.</annotation>
       <location>https://stream.rockantenne.de/heavy-metal/stream/mp3</location>
       <info>https://www.rockantenne.de/rockhoeren/streams/heavy-metal</info>
-      <image>covers/rock-antenne-heavy-metal.png</image>
+      <image>https://www.rockantenne.de/assets/icons/rockantenne-de/apple-touch-icon-120x120.png</image>
       <meta rel="group-title">Metal; Heavy Metal; Rock</meta>
       <meta rel="bitrate">128</meta>
       <meta rel="source">Official ROCK ANTENNE streamlinks</meta>
-      <meta rel="image-remote">https://www.rockantenne.de/assets/icons/rockantenne-de/apple-touch-icon-120x120.png</meta>
     </track>
     <track>
       <title>ROCK ANTENNE 80er Rock</title>
@@ -240,11 +228,10 @@
       <annotation>Eighties rock hits and classics.</annotation>
       <location>https://stream.rockantenne.de/80er-rock/stream/mp3</location>
       <info>https://www.rockantenne.de/rockhoeren/streams/80er-rock</info>
-      <image>covers/rock-antenne-80er-rock.png</image>
+      <image>https://cdn.antenne.de/antenne-de/uploads/images/ra_stream_80er_480.jpg</image>
       <meta rel="group-title">80er; 80s; Rock</meta>
       <meta rel="bitrate">128</meta>
       <meta rel="source">Official ROCK ANTENNE streamlinks</meta>
-      <meta rel="image-remote">https://cdn.antenne.de/antenne-de/uploads/images/ra_stream_80er_480.jpg</meta>
     </track>
     <track>
       <title>ROCK ANTENNE 90er Rock</title>
@@ -252,11 +239,10 @@
       <annotation>Nineties rock hits and classics.</annotation>
       <location>https://stream.rockantenne.de/90er-rock/stream/mp3</location>
       <info>https://www.rockantenne.de/rockhoeren/streams/90er-rock</info>
-      <image>covers/rock-antenne-90er-rock.png</image>
+      <image>https://www.rockantenne.de/assets/icons/rockantenne-de/apple-touch-icon-120x120.png</image>
       <meta rel="group-title">90er; 90s; Rock</meta>
       <meta rel="bitrate">128</meta>
       <meta rel="source">Official ROCK ANTENNE streamlinks</meta>
-      <meta rel="image-remote">https://www.rockantenne.de/assets/icons/rockantenne-de/apple-touch-icon-120x120.png</meta>
     </track>
     <track>
       <title>RADIO BOB! 2000er Rock</title>
@@ -264,11 +250,10 @@
       <annotation>Rock and alternative hits from the 2000s.</annotation>
       <location>https://streams.radiobob.de/2000er/mp3-192/streams.radiobob.de/</location>
       <info>https://www.radiobob.de/bobs-2000er-rock-stream</info>
-      <image>covers/radio-bob-2000er-rock.png</image>
+      <image>https://streams.radiobob.de/m/rc/branding/4e0fa665-6c43-413d-b797-fa261e34e78d/bob_2000er-rock_128x128.png</image>
       <meta rel="group-title">2000er; 2000s; Rock</meta>
       <meta rel="bitrate">192</meta>
       <meta rel="source">Official RADIO BOB! streamlinks</meta>
-      <meta rel="image-remote">https://streams.radiobob.de/m/rc/branding/4e0fa665-6c43-413d-b797-fa261e34e78d/bob_2000er-rock_128x128.png</meta>
     </track>
     <track>
       <title>Antenne Bayern 80er Kulthits</title>
