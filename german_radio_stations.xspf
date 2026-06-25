@@ -200,9 +200,9 @@
     </track>
     <track>
       <title>Rock am Ring Radio by RADIO BOB!</title>
-      <creator>RADIO BOB! </creator>
+      <creator>RADIO BOB!</creator>
       <annotation>Rund um die Uhr nur mit den besten Acts, die in den letzten Jahrzehnten den Ring gerockt haben! Und: Spannende Infos, News und Beiträge aus dem Rock am Ring-Kosmos.</annotation>
-      <location>https://streams.radiobob.de/rockamring/mp3-192/streams.radiobob.de/</location>
+      <location>http://streams.radiobob.de/rockamring/mp3-192/mediaplayer</location>
       <info>https://www.radiobob.de/rock-am-ring-radio-stream</info>
       <image>covers/Rock-am-Ring-Radio-by-RADIO-BOB.png</image>
       <meta rel="group-title">Rock  Metal; Punk; Metalcore; Deutschrock; Alternative Rock; Indie Rock; Heavy Metal</meta>
@@ -214,7 +214,7 @@
       <title>Wacken Radio by RADIO BOB!</title>
       <creator>RADIO BOB!</creator>
       <annotation>Wacken Radio by RADIO BOB! versorgt euch mit Beiträgen und Musik aus 30 Jahren W:O:A.</annotation>
-      <location>https://streams.radiobob.de/bob-wacken/mp3-192/streams.radiobob.de/</location>
+      <location>http://streams.radiobob.de/bob-wacken/mp3-192/mediaplayer</location>
       <info>https://www.radiobob.de/wacken-radio-by-radio-bob</info>
       <image>covers/Wacken-Radio-by-RADIO-BOB.png</image>
       <meta rel="group-title">Rock; Metal; Prog Symphonic Rock; Symphonic Rock; Art Rock; Heavy Rock; Europe; Modern; 90er; 20th Century; 21st Century; 2000s; 2010s; ADULT</meta>
